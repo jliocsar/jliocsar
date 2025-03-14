@@ -2,7 +2,7 @@
 
 I'm Julio Cesar.
 
-Passionate about problem solving and learning new tech. I work mainly with TypeScript, React and Node.js.
+Passionate about problem solving and learning new tech. I work mainly with TypeScript.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jliocsar/)](https://www.linkedin.com/in/jliocsar/)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/jliocsar)](https://gitlab.com/jliocsar)
