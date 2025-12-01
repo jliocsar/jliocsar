@@ -1,6 +1,6 @@
 #import "@preview/basic-resume:0.2.9": *
 
-#let name = "Julio Cesar Maria Filho"
+#let name = "Júlio César Maria Filho"
 
 #show: resume.with(
   author: name,
@@ -59,30 +59,30 @@
 == Work Experience
 
 #work(
-  title: "Software Engineer",
+  title: "Senior Software Engineer (Full Stack)",
   location: "Sydney, Australia (Remote)",
   company: "Hapana",
   dates: dates-helper(start-date: "May 2024", end-date: "Present"),
 )
-- Developing and maintaining a SaaS platform for large gyms and fitness centers using React.js, Node.js, TypeScript, GraphQL, and Google Cloud Spanner on GCP
+- Developing and maintaining a SaaS platform for large gyms and fitness centers using React.js, Node.js, TypeScript, GraphQL, and Spanner on GCP
+- Leading a team of developers, conducting code reviews, and mentoring junior team members to foster professional growth and maintain code quality standards
 - Contributed to the migration of a monolithic PHP + MySQL application to a microservices-based architecture using the MERN stack with Docker and Serverless on AWS
 - Maintained and monitored production applications serving thousands of daily active users, ensuring high availability, stability, and performance
-- Collaborated closely with cross-functional teams, including product management, design, and QA, to deliver high-quality software solutions
+- Created boilerplate templates and project scaffolding to streamline development workflows and improve team efficiency
 
 #work(
-  title: "Software Engineer",
+  title: "Software Engineer (Front-end/Back-end)",
   location: "Florianópolis, Brazil (Remote)",
   company: "Jungle Devs",
   dates: dates-helper(start-date: "May 2021", end-date: "Jun 2022"),
 )
 - Developed and maintained applications for clients across multiple industries using React.js, Redux, TypeScript, Serverless, GraphQL, and MongoDB
-- Implemented performance optimizations, reducing bundle sizes and improving overall load times
 - Served as Front-end Chapter Lead, mentoring junior developers and facilitating knowledge-sharing initiatives
 - Participated in recruitment processes, including technical interviews and candidate evaluations
 - Joined as an entry mid-level developer and earned a promotion to senior developer in under a year due to exceptional performance
 
 #work(
-  title: "Front-end Software Engineer",
+  title: "Software Engineer (Intern)",
   location: "Araguari, Brazil (Remote)",
   company: "Feedback Sistemas",
   dates: dates-helper(start-date: "Sep 2020", end-date: "May 2021"),
