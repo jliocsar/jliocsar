@@ -77,7 +77,6 @@
 )
 - Developed and maintained applications for clients across multiple industries using React.js, Redux, TypeScript, Serverless, GraphQL, and MongoDB
 - Implemented performance optimizations, reducing bundle sizes and improving overall load times
-- Helped establish best practices for front-end development, including code reviews, testing strategies, and documentation standards
 - Served as Front-end Chapter Lead, mentoring junior developers and facilitating knowledge-sharing initiatives
 - Participated in recruitment processes, including technical interviews and candidate evaluations
 - Joined as an entry mid-level developer and earned a promotion to senior developer in under a year due to exceptional performance
@@ -104,17 +103,9 @@
 
 == Certifications
 
-#certificates(
-  name: "JavaScript Algorithms and Data Structures",
-  issuer: "freeCodeCamp",
-  date: "Oct 2024",
-)
-
-#certificates(
-  name: "Responsive Web Design",
-  issuer: "freeCodeCamp",
-  date: "Oct 2024",
-)
+*JavaScript Algorithms and Data Structures*, freeCodeCamp #h(1fr) Jun 2020 \
+#pad(y: -10pt, "")
+*Responsive Web Design*, freeCodeCamp #h(1fr) Fev 2020
 
 == Skills
 - *Programming Languages*: JavaScript, TypeScript, Civet, Python, Lua, HTML/CSS, Perl, Bash
