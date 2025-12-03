@@ -1,0 +1,58 @@
+--- summary-before
++++ summary-after
+- #emph(text(rgb(accent-color))[Software Engineer]) with over 5 years of experience building scalable distributed systems, developer tooling, and high-traffic SaaS platforms.
+- Specializes in TypeScript/Node.js, cloud-native architectures, GraphQL and internal tooling that improves developer velocity.
+- Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server development.
++ #emph(text(rgb(accent-color))[Senior Software Engineer]) with 5+ years of experience architecting distributed systems, developer platforms, and high-scale SaaS products (2M+ users).
++ Expert in TypeScript/Node.js, cloud-native design, GraphQL, and performance-focused full-stack engineering.
++ Recent focus on AI engineering, building RAG pipelines and MCP tooling that increased LLM coding accuracy and internal developer velocity.
+
+--- hapana-before
++++ hapana-after
+- Build and maintain a large-scale SaaS platform for enterprise fitness chains with 1000+ locations and 2m+ customers using React, Node.js, TypeScript, GraphQL, and Spanner on GCP
++ Built and scaled an enterprise SaaS platform serving 2M+ customers across 1,000+ locations; improved performance and reliability across React, Node.js, GraphQL, and GCP (Spanner).
+
+- Lead developers through reviews, mentorship, and guidance, improving team growth and code quality
++ Led a cross-functional engineering group through code reviews, mentorship, and technical direction, improving code quality and delivery consistency across a 10+ person team.
+
+- Owned production reliability (thousands of DAUs) and core architecture, delivering templates/scaffolding that improved stability and developer velocity
++ Owned mission-critical production services (thousands of DAUs) and redesigned core architecture; shipped internal scaffolding/templates that reduced setup time by ~40% and increased developer velocity.
+
+- Migrated a monolithic PHP/MySQL system to microservices using the MERN stack with Serverless on AWS
++ Led migration from a PHP/MySQL monolith to AWS microservices (MERN), reducing system downtime and improving deployment flexibility.
+
+- Built and deployed a RAG-powered MCP server that improves LLM coding accuracy by exposing stack-specific docs
++ Designed and deployed a RAG-powered MCP server powering internal AI agents; improved LLM coding accuracy and context retrieval for stack-specific tasks.
+
+--- jungle-before
++++ jungle-after
+- Developed and maintained applications for clients across multiple industries using React.js, Redux, TypeScript, Serverless, GraphQL, and MongoDB
++ Delivered multi-industry web applications using React, TypeScript, Serverless, GraphQL, and MongoDB.
+
+- Served as Front-end Chapter Lead for a 20+ developer team, mentoring junior developers and facilitating knowledge-sharing initiatives
++ Served as Front-end Chapter Lead for 20+ engineers; drove best practices, training, and technical interviews.
+
+- Promoted from mid-level to senior in under a year due to performance and leadership impact
++ Promoted from mid-level to senior in under a year for strong ownership, delivery, and technical leadership.
+
+--- projects-before
++++ projects-after
+- *Better TS Errors* ... | VS Code extension that formats and enhances TypeScript compiler errors for clearer debugging
++ *Better TS Errors* ... | VS Code extension improving TypeScript error readability; adopted by developers globally and used in daily workflows.
+
+- *jstr* ... | CLI tool for querying, transforming, and piping JSON via pure JavaScript (jq-like but JS-based)
++ *jstr* ... | CLI tool for querying/transforming JSON with JavaScript; reduces debugging and scripting friction for automation tasks.
+
+- *Stack Docs MCP Server (Internal)* | RAG-powered documentation server that improves LLM coding accuracy by exposing stack-specific documentation to AI agents
++ *Stack Docs MCP Server (Internal)* | Internal RAG/MCP system powering AI agents; boosted LLM accuracy and significantly reduced context-handling errors.
+
+--- skills-before
++++ skills-after
+- *Programming Languages*: TypeScript, JavaScript, Civet, Python, Lua, Bash
++ *Programming Languages*: TypeScript (expert), JavaScript, Python, Lua, Bash
+
+- *Tooling*: Docker, Git, GitHub Actions, Typst, Neovim
++ *Tooling & DevEx*: Docker, GitHub Actions, Neovim, Typst; strong focus on developer experience and internal tooling
+
++ *Architecture & Systems*: Distributed systems, microservices, event-driven systems, CI/CD, performance optimization
+
