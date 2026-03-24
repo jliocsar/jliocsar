@@ -41,8 +41,6 @@
 
 // ## Summary
 #emph(text(rgb(accent-color))[Software Engineer]) with over 5 years of experience building scalable distributed systems, developer tooling, and high-traffic SaaS platforms.
-Specializes in TypeScript/Node.js, cloud-native architectures, GraphQL and internal tooling that improves developer velocity.
-Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server development.
 
 == Work Experience
 
@@ -52,9 +50,9 @@ Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server deve
   company: "Hapana",
   dates: dates-helper(start-date: "Jun 2022", end-date: "Present"),
 )
-- Developed and scaled multi-tenant enterprise SaaS platform supporting 2M+ users across 1,000+ locations, leading back-end development for core services using React, Node.js, Apollo Federation, AWS Lambda and MongoDB
-- Building the next-generation version of the platform by migrating to GCP, while leveraging AI-driven tooling to accelerate migration and reduce manual overhead
-- Built an eventually consistent data-sync pipeline with AWS DMS to mirror a PHP/MySQL application data into the new Node.js/GraphQL services in real time, enabling a zero-downtime migration path
+- Architecting and delivering the migration of a large-scale multi-tenant SaaS platform to GCP, designing cloud-native architectures and leveraging AI-assisted engineering workflows to accelerate delivery and reduce operational complexity
+- Leading an AI-native conversational interaction layer that enables business operators to manage enterprise workflows through chat, implementing stateful assistant orchestration, retrieval-augmented knowledge pipelines, streaming data flows, and extensible integrations with core backend services using AI SDK
+- Scaled core backend systems for a globally deployed enterprise platform supporting 1,000+ locations, owning foundational service architecture and driving the delivery of high-impact distributed GraphQL serverless environments
 
 #work(
   title: "Software Engineer (Front-end - Back-end)",
@@ -62,10 +60,10 @@ Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server deve
   company: "Jungle Devs",
   dates: dates-helper(start-date: "May 2021", end-date: "Jun 2022"),
 )
-- Delivered multi-industry web applications using React.js, Redux, TypeScript, Serverless, GraphQL, and MongoDB
-- Served as Front-end Chapter Lead for 20+ engineers; mentored teams and facilitated knowledge-sharing initiatives
-- Participated in recruitment processes, including technical interviews and candidate evaluations, speeding up hiring by 30%
-- Promoted from mid-level to senior in under a year due to strong ownership, delivery, and technical leadership
+- Delivered production-grade web platforms across multiple industries, building scalable front-end and backend systems and contributing to architecture decisions
+- Led the Front-end engineering chapter for a 20+ engineer team, mentoring developers, improving development standards, and driving cross-team knowledge sharing initiatives
+- Contributed to hiring pipelines through technical interviewing and candidate evaluation, helping reduce time-to-hire and improve engineering team throughput
+- Promoted to Senior Software Engineer within one year after expanding ownership of core systems and leading delivery of complex platform features
 
 #work(
   title: "Software Engineer (Intern)",
@@ -73,17 +71,8 @@ Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server deve
   company: "Feedback Sistemas",
   dates: dates-helper(start-date: "Sep 2020", end-date: "May 2021"),
 )
-- Developed high–data-volume applications for stock tracking using Python (Django) and PostgreSQL
-- Designed and implemented an internal data visualization and management dashboard using the MERN stack
-
-#work(
-  title: "Web Developer",
-  location: "Remote, Brazil",
-  company: "Freelance",
-  dates: dates-helper(start-date: "Feb 2020", end-date: "Dec 2020"),
-)
-- Designed and developed custom websites for small businesses using React.js/Node.js and WordPress
-- Deployed solutions on AWS and custom VPS servers using NGINX and Apache
+- Developed high-throughput data processing features for inventory and stock management systems using Python and relational databases, improving data reliability and operational visibility
+- Designed and shipped an internal analytics and management dashboard, enabling business stakeholders to visualize large operational datasets and streamline decision-making workflows
 
 == Education
 
@@ -96,22 +85,10 @@ Recently focused on AI/LLM agent reliability, RAG pipelines, and MCP server deve
 - Relevant Coursework: Computer Network Infrastructure, Software Development Processes, Unix/Linux Network Operating Systems, Database Systems, Systems Analysis and Design, Web Systems Development, Object-Oriented Programming
 - Transitioned to full-time software engineering roles after gaining foundational coursework
 
-== Projects
-
-- *Better TS Errors* #box(
-    baseline: 2pt,
-    link("https://github.com/jliocsar/better-ts-errors", image("link.svg", width: 10pt)),
-  ) | VS Code extension improving TypeScript error readability; adopted by developers globally and used in daily workflows
-- *jstr* #box(
-    baseline: 2pt,
-    link("https://github.com/jliocsar/jstr", image("link.svg", width: 10pt)),
-  ) | CLI tool for querying, transforming, and piping JSON via pure JavaScript (jq-like but JS-based)
-- *Stack Docs MCP Server* | RAG-powered MCP server powering coding agents; boosted LLM accuracy and significantly reduced context-handling errors
-
 == Skills
-- *Programming Languages*: TypeScript, JavaScript, Civet, Python, Lua, Bash
-- *Front-end*: React.js, Next.js, HTMX, Zustand, Tailwind CSS
-- *Back-end*: Node.js, Bun, Express, Elysia, GraphQL, MongoDB, PostgreSQL, Supabase, Spanner, Turso
-- *Tooling & DevEx*: Docker, Git, GitHub Actions, Typst, Neovim
-- *AI*: OpenAI API, ChromaDB, TypeScript MCP SDK, Mastra
-- *Cloud*: Google Cloud Platform, AWS, Fly.io, Vercel
+- *Languages*: TypeScript, JavaScript, Python, Lua, Bash
+- *Backend & Platform*: Node.js, Bun, GraphQL, distributed APIs, real-time systems, PostgreSQL, MongoDB, Spanner, serverless architectures
+- *Frontend*: React, Next.js
+- *AI & LLM Systems*: RAG pipelines, agent/tool orchestration, OpenAI & Anthropic ecosystems, vector databases, AI SDK tooling
+- *Cloud & Infrastructure*: Google Cloud Platform, AWS, Fly.io, Vercel, containerized deployments (Docker), CI/CD (GitHub Actions)
+- *Developer Tooling*: CLI tooling, internal platform tooling, Neovim-based workflows
